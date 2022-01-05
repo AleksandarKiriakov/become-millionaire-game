@@ -1,6 +1,7 @@
-1|10. Which of the following countries is not a member of NATO? | a-Switzerland ----------- | b-Greece | c-Turkey | d-Romania | a     
-2|10. The unification between Eastern Rumelia, Principality of Bulgaria took place on 06.09 in:|a-1914 | b-1885-- | c-1866 | d-1911 | b
-3|10. After 1944 a city in Bulgaria is called Michurin. Who is he?|a-Balchik |b-Shabla|c- Sozopol| d- Tsarevo --------|d 
-4|10. The famous novel-Rich-Poor-is a filmed and desired interest.
+50
+1|46|10. Which of the following countries is not a member of NATO? | a-Switzerland ----------- | b-Greece | c-Turkey | d-Romania | a     
+2|47|10. The unification between Eastern Rumelia, Principality of Bulgaria took place on 06.09 in:|a-1914 | b-1885-- | c-1866 | d-1911 | b
+3|48|10. After 1944 a city in Bulgaria is called Michurin. Who is he?|a-Balchik |b-Shabla|c- Sozopol| d- Tsarevo --------|d 
+4|49|10. The famous novel-Rich-Poor-is a filmed and desired interest.
 Who is my author? a-Irwin Show --------- | b-Margaret Mitchell | c-Mario Puzo | d-Boris Pasternak|a
-5|10.Which of the following planets in the solar system has the largest mass?|a-Earth | b-Jupiter ------------ |c- Venus | d- Uranus|b
+5|50|10.Which of the following planets in the solar system has the largest mass?|a-Earth | b-Jupiter ------------ |c- Venus | d- Uranus|b

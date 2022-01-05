@@ -1,7 +1,7 @@
 5
-1|1. Which of the following countries is not in the Schengen area?|a- France | b-Moldova ----------- | c-Italy | d-Germany|b
-2|1. Who is the first Bulgarian bandit|a-Maria | b-Genoveva | c-Sirma ---------- | Mr. Marutsa|c
-3|1. Which are the three largest cities by population in Bulgaria?|a-Sofia-Burgas-Pleven | b-Sofia-Plovdiv-Varna-- | 
+1|1|1. Which of the following countries is not in the Schengen area?|a- France | b-Moldova ----------- | c-Italy | d-Germany|b
+2|2|1. Who is the first Bulgarian bandit|a-Maria | b-Genoveva | c-Sirma ---------- | Mr. Marutsa|c
+3|3|1. Which are the three largest cities by population in Bulgaria?|a-Sofia-Burgas-Pleven | b-Sofia-Plovdiv-Varna-- | 
 c -Plovdiv-Varna-St.Zagora | d-Burgas-Pleven-St. Zagora |b      
-4|1. Who is the author of - Legend of the Centuries, - Twenty-third year, The man who laughs at other famous works?|a-Lermontov | b-Nabokov | c-Victor Yugo -------- | d-Sholokhov|c
-5|1. The law of gravity was discovered by:|a-Pythagoras | b-Newton -------------| c-Edison | d-Max Planck|b
+4|4|1. Who is the author of - Legend of the Centuries, - Twenty-third year, The man who laughs at other famous works?|a-Lermontov | b-Nabokov | c-Victor Yugo -------- | d-Sholokhov|c
+5|5|1. The law of gravity was discovered by:|a-Pythagoras | b-Newton -------------| c-Edison | d-Max Planck|b

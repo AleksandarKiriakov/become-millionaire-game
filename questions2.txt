@@ -1,8 +1,9 @@
-1|2. Until 1990, the USSR existed. Which of the countries was not in it?|a-Kazakhstan|b-Lithuania|c-Uzbekistan|d-Pakistan ------- |d
-2|2. For which Bulgarian ruler is the time of rule -GOLDEN AGE-? | a-Boris | b-Simeon --------- | c-Tervel | d-Omurtag | b
-3|2. Which of the cities in Bulgaria is not located on the Struma highway?|a-Radomir-| b-Petrich|c_ Simitli| d- Kresna|a
+10
+1|6|2. Until 1990, the USSR existed. Which of the countries was not in it?|a-Kazakhstan|b-Lithuania|c-Uzbekistan|d-Pakistan ------- |d
+2|7|2. For which Bulgarian ruler is the time of rule -GOLDEN AGE-? | a-Boris | b-Simeon --------- | c-Tervel | d-Omurtag | b
+3|8|2. Which of the cities in Bulgaria is not located on the Struma highway?|a-Radomir-| b-Petrich|c_ Simitli| d- Kresna|a
 c -Plovdiv-Varna-St.Zagora | d-Burgas-Pleven-St. Zagora |b      
-4|2. The pastoral theme is typical for many Bulgarian writers with the exception of:
+4|9|2. The pastoral theme is typical for many Bulgarian writers with the exception of:
 a-Elin Pelin | b-Pavel Matev ---------- | c-Yordan Yovkov | d-Todor Vlaykov |b
-5|2. Electricity is produced by generators. What it is generator phase?|
+5|10|2. Electricity is produced by generators. What it is generator phase?|
 a-key | b-magnet |c-button | d-winding --- |d
