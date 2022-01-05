@@ -7,6 +7,12 @@
 *.o
 *.obj
 .vs/
+x64/
+become-millionaire-game.sln
+become-millionaire-game.vcxproj
+become-millionaire-game.vcxproj.filters
+become-millionaire-game.vcxproj.user
+
 
 # Precompiled Headers
 *.gch
