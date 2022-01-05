@@ -1,0 +1,7 @@
+1|5. The Netherlands is a member of the EU and uses the euro as its main currency. What is its currency before the EU? | a-crown | b-dinar | c-gulden ------------ | d-escudo | c
+2|5.Which of the above writers did not work in the Ohrid school? | A-Clement | b-Nahum | c-Methodius ------------ | d- Angelarius | c
+3|5. Who is the discoverer of the continent of Australia?|a-Marco Polo| b-Yanz --------|c- Tasman| d-. Magellan|b
+4|5.Which Russian classic wrote a poem about the brave Emilian Pugachev - a famous village leader? |a-Pushkin | b-Gorki | c-Lermontov |d-Yesenin -----------|d
+5|5. Which of the following appliances does not have a heater?|a-microwave oven| b-mixer ------------- |
+
+c- stove | d-coffe maker|b

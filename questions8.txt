@@ -1,0 +1,6 @@
+1|8. Which of the following countries does not belong to Latin America? | a-Ecuador | b-Canada ----- | c-Argentina | d-Chile | b
+2|8-Khan Kubrat had five sons. Which of the following is not one of them? | A-Bayan | b-Asparuh | c-Kotrag | d-Nicephorus ---------- | d
+3|8. Which of the following factors determines the available climate zones
+on the ground?|a-air circulation |b-Relief|c-Latitude ---------| d-Oceans and seas|c
+4|8. The author of the famous novel - The Adventures of the Good Soldier-Schweik- | a-Shakespeare | b-Jules Verne | c-Jaroslav Hasek ----------- | d-Jean Paul Sartre|c
+5|8.What is a jet engine?|a-gas turbine ---------- | b-furnace |c-kind magnet | d-catalyst|a
