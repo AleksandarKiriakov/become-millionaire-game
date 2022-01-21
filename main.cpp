@@ -531,12 +531,12 @@ using namespace std;
 			Category = 6;
 		}
 		printDownFrame();
-		system("CLS");
+		cout << "\x1B[2J\x1B[H";
 		printUpperFrame();
 		cout << "Insert Question:" << endl;
 		cin >> Question;
 		printDownFrame();
-		system("CLS");
+		cout << "\x1B[2J\x1B[H";
 		printUpperFrame();
 		cout << "Insert answers:" << endl;
 		cout << "a) ";
@@ -548,7 +548,7 @@ using namespace std;
 		cout << "d) ";
 		cin >> answerD;
 		printDownFrame();
-		system("CLS");
+		cout << "\x1B[2J\x1B[H";
 		printUpperFrame();
 		cout << "Choose right answer (a,b,c,d): ";
 		cin >> rightAnswer;
@@ -559,14 +559,14 @@ using namespace std;
 		}
 
 		printDownFrame();
-		system("CLS");
+		cout << "\x1B[2J\x1B[H";
 	}
 	bool CheckForCurrectInputInMenu(int b)
 	{
 		return b == 1 || b == 2 || b == 3 || b == 4;
 	}
 	void choosingGame(int &counter, int& choice, string &UserChoice) {
-		system("CLS");
+		cout << "\x1B[2J\x1B[H";
 		bool x = true;
 		bool y = true;
 		bool z = true;
@@ -609,7 +609,7 @@ using namespace std;
 			cout << endl;
 			if ((x == true) && UserChoice[0] == 'X')
 			{
-				system("CLS");
+				cout << "\x1B[2J\x1B[H";
 				int elim1 = 0;
 				int elim2 = 0;
 				string rightAnswer = question[QUESTION_ATTRIBUTES - 1];
@@ -630,7 +630,7 @@ using namespace std;
 			}
 			if ((y == true) && UserChoice[0] == 'Y')
 			{
-				system("CLS");
+				cout << "\x1B[2J\x1B[H";
 				printUpperFrame();
 				int first = 0, second = 0, third = 0, fourth = 0;
 				string rightAnswer = question[QUESTION_ATTRIBUTES - 1];
@@ -647,7 +647,7 @@ using namespace std;
 			}
 			if ((z == true) && UserChoice[0] == 'Z')
 			{
-				system("CLS");
+				cout << "\x1B[2J\x1B[H";
 				printUpperFrame();
 				int first, second, third, fourth;
 				useAudience(question[QUESTION_ATTRIBUTES - 1], counter, first, second, third, fourth);
@@ -680,19 +680,21 @@ using namespace std;
 			}
 			if (UserChoice == question[QUESTION_ATTRIBUTES - 1])
 			{
-				system("CLS");
+				cout << "\x1B[2J\x1B[H";
 				printUpperFrame();
 				cout << setw(33) << setfill(' ') << "Congrats you win: " << 100 * counter << "lv" << endl << endl;
 				printDownFrame();
-				system("pause");
-				system("CLS");
+				cout << "Write any letter to continue: ";
+				cin >> UserChoice;
+				cout << "\x1B[2J\x1B[H";
 				if (counter == 10)
 				{
 					printUpperFrame();
 					cout << setw(37) << setfill(' ') << "Congrats you won! " << endl;
 					printDownFrame();
-					system("pause");
-					system("CLS");
+					cout << "Write any letter to continue:  ";
+					cin >> UserChoice;
+					cout << "\x1B[2J\x1B[H";
 					break;
 				}
 				counter++;
@@ -700,14 +702,15 @@ using namespace std;
 			}
 			else
 			{
-				system("CLS");
+				cout << "\x1B[2J\x1B[H";
 				printUpperFrame();
 				cout << "Wrong answer try again!" << endl
 					<< "Right answer to question number " << counter << " is: " << '"' << question[QUESTION_ATTRIBUTES - 1] << '"' << endl;
 				cout << "Click any key to go to main menu..." << endl;
 				printDownFrame();
-				system("pause");
-				system("CLS");
+				cout << "Write any letter to continue: ";
+				cin >> UserChoice;
+				cout << "\x1B[2J\x1B[H";
 				break;
 			}
 
@@ -726,7 +729,7 @@ using namespace std;
 			{
 				cin >> choice;
 			}
-			system("CLS");
+			cout << "\x1B[2J\x1B[H";
 			if (choice==1)
 			{
 				printNewGameMenu();
@@ -755,7 +758,7 @@ using namespace std;
 					cin >> IdOfQuestion;
 				}
 				printDownFrame();
-				system("CLS");
+				cout << "\x1B[2J\x1B[H";
 				while (findQuestion(IdOfQuestion)==-1)
 				{
 					cout << "ID of question isn't found. Please insert new: ";
