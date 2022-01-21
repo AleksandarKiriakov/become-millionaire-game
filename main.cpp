@@ -1,4 +1,19 @@
-﻿#include "addingQuestionToFile.h"
+﻿/**
+*
+* Solution to course project #5
+* Introduction to programming course
+* Faculty of Mathematics and Informatics of Sofia University
+* Winter semester 2021/2022
+*
+* @author Aleksandar Kiriakov
+* @idnumber 6MI0600087
+* @compiler VC
+*
+* <program starter>
+*
+*/
+
+#include "addingQuestionToFile.h"
 #include "Border.h"
 #include "newGame.h"
 #include "workWithFileIdentNumber.h"
@@ -39,7 +54,7 @@ using namespace std;
 		string categoryString;
 		cout << "How difficult the question is (1-10): ";
 		cin >> Difficult;
-		while (Difficult < 1 || Difficult>10)
+		while (Difficult < 1 || Difficult> 10)
 		{
 			cout << "Wrong number try new one: ";
 			cin >> Difficult;
