@@ -1,7 +1,5 @@
-20
-1|16|4. The United Kingdom is the center of the Commonwealth of Nations. Which country is not included in it?a-Canada |b-Iceland ----------- | c-Ireland | e-New Zealand | b
-2|17|4. Where was Levski captured by the Turks? | A-Karlovo | b-Kakrina --------- | c-In the forest | e- In the monastery | b
-3|18|4. What is the name of the International Union for Oil Production and Trade?|a-Petrol| b-Petroleum product|c-OPEC ---- |d-GAZPROM|c
-4|19|4. There are many children's writers in Bulgarian literature.
-a-Asen Bosev | b-Uncle Stoyan ----------- | c-Emilian Stanev | d- Angel Naraliychev|b
-5|20|4. The sockets are made of- |a-tree | b-nylon |c-plastic | g-porcelain …………. |g
+16|1|The United Kingdom is the center of the Commonwealth of Nations. Which country is not included in it?|a-Canada|b-Iceland|c-Ireland|e-New Zealand|b
+17|2|Where was Levski captured by the Turks?|a-Karlovo|b-Kakrina|c-In the forest|d-In the monastery|b
+18|3|What is the name of the International Union for Oil Production and Trade?|a-Petrol|b-Petroleum product|c-OPEC|d-GAZPROM|c
+19|4|There are many children's writers in Bulgarian literature.|a-Asen Bosev|b-Uncle Stoyan|c-Emilian Stanev|d-Angel Naraliychev|b
+20|5|The sockets are made of:|a-tree|b-nylon|c-plastic|d-porcelain|d

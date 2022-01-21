@@ -1,6 +1,5 @@
-35
-1|31|7What does UNICEF mean? | a-children's fund ----------- | b-oil pipeline | c-bank | d-industrial complex |a
-2|32|7.Which Russian general liberated the city of Pleven from the Turks? | A-Gurko | b-Skobelev ----------- | c-Suvorov | d-Stoletov | b
-3|33|7. In which ocean is the tourist destination - Seychelles?|a-Pacific Ocean| b-Atlantic Ocean|c-Indian Ocean -------- |d-Arctic Ocean|c
-4|34|7. Prominent Bulgarian authors are critical of the quality of our people. Who are not in this topic? | A-Elin Pelin | b-Nikolay Haitov | c-Aleko Konstantinov | d-Pavel Vezhinov ----------|d
-5|35|7. Explain the meaning of the term -circular motion: |a-up-down | b-around fixed axis --------- | c- left-right | d-forward-backward |b
+31|1|What does UNICEF mean?|a-children's fund|b-oil pipeline|c-bank|d-industrial complex|a
+32|2|Which Russian general liberated the city of Pleven from the Turks?|a-Gurko|b-Skobelev|c-Suvorov|d-Stoletov|b
+33|3|In which ocean is the tourist destination - Seychelles?|a-Pacific Ocean|b-Atlantic Ocean|c-Indian Ocean|d-Arctic Ocean|c
+34|4|Prominent Bulgarian authors are critical of the quality of our people. Who are not in this topic?|a-Elin Pelin|b-Nikolay Haitov|c-Aleko Konstantinov|d-Pavel Vezhinov|d
+35|5|Explain the meaning of the term -circular motion:|a-up-down|b-around fixed axis|c-left-right|d-forward-backward|b

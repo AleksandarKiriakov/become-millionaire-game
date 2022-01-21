@@ -1,7 +1,5 @@
-15
-1|11|3. What does “Enclave” mean? | A-Computer game | b-Own territory in a foreign country --------- | c- Spa center | d-Type of farm | a
-2|12|3. Are important historical events connected with one of the mentioned Bulgarian mountain peaks? | a-Botev | b-Ruen | c- Вола ---------- | d-Канарата | c
-3|13|3. Which of the cities in Bulgaria does the sub-Balkan railway line not pass through?|a-Karlovo| b-Pernik ---|c- Kazanlak| d- Pirdop|b
-4|14|3. Many Bulgarian poets are prominent representatives of proletarian poetry. Who are not? |a-Asen Raztsvetnikov | b-Dimitar Polyanov | c-Nikola Rakitin ---------- | d-Hristo Smirnenski|c
-5|15|3. What units are used to measure luminous flux?|
-a-lumens ---------- | b-luxes |c-ergove | d-columns |a
+11|1|What does Enclave mean?|A-Computer game|b-Own territory in a foreign country|c-Spa center|d-Type of farm|b
+12|2|Are important historical events connected with one of the mentioned Bulgarian mountain peaks?|a-Botev|b-Ruen|c-Vola|d-Kanarata|c
+13|3|Which of the cities in Bulgaria does the sub-Balkan railway line not pass through?|a-Karlovo|b-Pernik|c-Kazanlak|d-Pirdop|b
+14|4|Many Bulgarian poets are prominent representatives of proletarian poetry. Who are not?|a-Asen Raztsvetnikov|b-Dimitar Polyanov|c-Nikola Rakitin|d-Hristo Smirnenski|c
+15|5|What units are used to measure luminous flux?|a-lumens|b-luxes|c-ergove|d-columns|a
