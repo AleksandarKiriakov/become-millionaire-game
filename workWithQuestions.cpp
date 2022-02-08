@@ -41,6 +41,7 @@ vector<int> countQuestions(int difficulty, int category)
 	{
 		cout << "Error opening file";
 		return currentLine;
+
 	}
 	int numberOfQuestions = 0;
 	int line = 1;
@@ -117,6 +118,7 @@ string* randomQuestion(int difficulty, int category)
 	question = getQuestion(difficulty, line);
 	return question;
 }
+
 int findQuestion(int identNumber)
 {
 	int fileNumber = -1;
@@ -133,21 +135,30 @@ int findQuestion(int identNumber)
 		string* question = {};
 		int currentLine = 0;
 		string buffer = {};
+		int counter = 0;
+		int Number=0;
 		while (getline(file, buffer))
 		{
-			if ((buffer[0] - '0') == identNumber)
+			while (buffer[counter] != QUESTION_DELIMITER)
+			{
+				(Number *= 10)+=int( buffer[counter]-'0');
+				counter++;
+			}
+			while (Number == identNumber)
 			{
 				fileNumber = i;
 				return fileNumber;
 			}
+			counter = 0;
+			Number = 0;
 		}
 		file.close();
 	}
 	return fileNumber;
 }
-void EditQuestion(string question, string answer1, string answer2, string answer3, string answer4, int rigthAnswer, int category, int identNumber)
+void EditQuestion(string question, string answer1, string answer2, string answer3, string answer4, int rigthAnswer, int category, int IdOfQuestion)
 {
-	string fileName = getFileName(findQuestion(identNumber));
+	string fileName = getFileName(findQuestion(IdOfQuestion));
 	ifstream file;
 	vector<string> allQuestionsFromFile;
 	file.open(fileName);
@@ -160,17 +171,20 @@ void EditQuestion(string question, string answer1, string answer2, string answer
 	string Category;
 	Category = to_string(category);
 	string id;
-	id = to_string(identNumber);
+	id = to_string(IdOfQuestion);
 	while (getline(file, buffer))
 	{
 		bool checkForCurrectIdent = false;
 		int i = 0;
 		while (buffer[i] != '|')
 		{
-			if (buffer[i] == id[i])
+			while(buffer[i] == id[i])
 			{
 				checkForCurrectIdent = true;
 				i++;
+			}
+			if (checkForCurrectIdent && id[i]=='\0')
+			{
 				continue;
 			}
 			checkForCurrectIdent = false;

@@ -172,7 +172,7 @@ using namespace std;
 				string Question, answerA, answerB, answerC, answerD;
 				char rightAnswer;
 				InsertQuestionFromUser(Question, answerA, answerB, answerC, answerD, rightAnswer, Category, Difficult);
-				EditQuestion(Question, answerA, answerB, answerC, answerD, rightAnswer, Category, Difficult);
+				EditQuestion(Question, answerA, answerB, answerC, answerD, rightAnswer, Category, IdOfQuestion);
 			}
 			else if (choice == 4)
 			{
